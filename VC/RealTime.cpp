@@ -1,7 +1,6 @@
 #include "plugin.h"
 #include "CClock.h"
 #include "time.h"
-#include "CTimer.h"
 
 using namespace plugin;
 
